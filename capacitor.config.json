@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "io.ionic.covidtoilettracking",
   "appName": "covid-toilet-tracking",
   "bundledWebRuntime": false,
   "npmClient": "npm",
